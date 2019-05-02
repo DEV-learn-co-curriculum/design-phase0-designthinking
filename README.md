@@ -1,4 +1,4 @@
-# Why is Design Important? #
+# Design Thinking #
 > ## Design thinking is neither art nor science nor religion. It is the capacity, ultimately, for integrative thinking.
 > – Tim Brown, IDEO.
  
