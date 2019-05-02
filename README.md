@@ -10,19 +10,19 @@ Design thinking is typically broken-down into a five-step iterative process:
 
 Designers think carefully about their users to understand who they are. They also get a good grasp on user needs/preferences, the needs of their business and the constraints of the platform they are designing for. 
 
-**Step 2: Define
+**Step 2: Define**
 
 Designers then define the problem they wish to solve based on user pain point research.
 
-**Step 3: Ideate
+**Step 3: Ideate**
 
 In this step, designers come up with creative solutions for the identified problem. 
 
-**Step 4: Prototype
+**Step 4: Prototype**
 
 Once they have a finalized solution, designers build out an initial prototype to conceptualize that solution. They then layer in more prototypes to examine features, language and content strategy.
 
-**Step 5: Test
+**Step 5: Test**
 
 A prototype is a good start, but it needs to hold up to the final step, testing. Designers often create more iterations and refine their product until they achieve their desired results. 
 
