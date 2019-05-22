@@ -1,4 +1,4 @@
-# Design Thinking #
+# Design Thinking 
 > ## Design thinking is neither art nor science nor religion. It is the capacity, ultimately, for integrative thinking.
 > – Tim Brown, IDEO.
  
@@ -28,7 +28,7 @@ A prototype is a good start, but it needs to hold up to the final step, testing.
 
 
 
-## Articles ##
+## Articles 
 
 ### [The Value of Design Thinking in Business](https://www.toptal.com/designers/product-design/design-thinking-business-value)
 by [James Pikover](https://www.linkedin.com/in/jamespikover) CEO of Voltage (8 min read)<br> Great design is simple, beautiful, and easy to use. It creates a sense of purpose and place. It responds to user needs, and it just works. Aside from these characteristics, how can we know whether a design is “good”? Moreover, how can a business know whether the investment of time and money into a design was worth it? [Read more](https://www.toptal.com/designers/product-design/design-thinking-business-value)
@@ -40,7 +40,7 @@ by [Anish Joshi](https://uk.linkedin.com/in/anish-joshi-00634a1) Head of Design 
 by [Adam Leon](https://ca.linkedin.com/in/transmitterstudios) Design & Technology Strategist at [Transmitter Studios](https://cx.transmitterstudios.com/home) (6 min read)<br> Design Thinking. Specific definitions vary and they all include a problem solving process that puts identifying people’s needs first using a variety of tools to achieve results. This is my favourite part. Getting the results. Too often in our industry of software and services we consider that an individual transaction is the end of an association. It shouldn’t be. Digital solutions are not one-off billboards. Iterations, experiments, observations, insights, and action drive real change and create valuable products. [Read more](https://medium.com/swlh/3-great-examples-of-design-thinking-in-action-a96461538c4a) 
 
 
-## Videos ##
+## Videos 
 
 ### [It's not you. Bad doors are everywhere.](https://www.youtube.com/watch?v=yY96hTb8WgI)
 (6 min) Don Norman started complaining about doors over 25 years ago. Doors shouldn't need instructions – the shape of them can guide you through just fine.  So why do so many doors need instruction manuals right on the side of them?<br><br>
